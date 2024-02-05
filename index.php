@@ -7,7 +7,7 @@
     <body>
         <form action="welcome.php" method="GET">
             Name: <input type="text" name="name" />
-            Password: <input type="password" name="pwd" />
+            Password: <input type="text" name="pwd" />
             Remember Me: <input type="checkbox" name="remember" value="ON" />
             <input type="submit" />
         </form>
