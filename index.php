@@ -5,7 +5,7 @@
         <title>Cookie Demo</title>
     </head>
     <body>
-        <form action="welcome.php" method="post">
+        <form action="welcome.php" method="GET">
             Name: <input type="text" name="name" />
             Password: <input type="password" name="pwd" />
             Remember Me: <input type="checkbox" name="remember" value="ON" />
